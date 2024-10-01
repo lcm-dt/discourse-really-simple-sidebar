@@ -15,7 +15,7 @@ export default class SearchBanner extends Component {
 
     if (showOn === "homepage") {
       return currentRouteName === `discovery.${defaultHomepage()}`;
-    } else if (showOn === "top_menu") {
+    } else if (showOn === "above_footer") {
       return this.siteSettings.top_menu
         .split("|")
         .any((m) => `discovery.${m}` === currentRouteName);
