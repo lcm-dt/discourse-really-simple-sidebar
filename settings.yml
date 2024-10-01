@@ -1,5 +1,5 @@
 show_on:
-  default: top_menu
+  default: above_footer
   type: enum
   choices:
     - top_menu
