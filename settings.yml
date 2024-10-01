@@ -9,7 +9,7 @@ show_on:
   description: top_menu refers to the <a href="/admin/site_settings/category/all_results?filter=top_menu">top menu site setting</a>
 
 plugin_outlet:
-  default: "below-site-header"
+  default: "above-footer"
   type: enum
   choices:
     - below-site-header
