@@ -6,13 +6,13 @@ show_on:
     - homepage
     - discovery
     - all
-  description: top_menu refers to the <a href="/admin/site_settings/category/all_results?filter=above_footer">above footer site setting</a>
+  description: above_footer refers to the <a href="/admin/site_settings/category/all_results?filter=above_footer">above footer site setting</a>
 
 plugin_outlet:
   default: "above-footer"
   type: enum
   choices:
-    - below-site-header
+    - above-footer
 
 background_image_light:
   type: upload
