@@ -1,0 +1,17 @@
+{
+  "name": "Really Simple Sidebar",
+  "component": true,
+  "license_url": "https://github.com/lcm-dt/discourse-really-simple-sidebar/blob/main/LICENSE",
+  "about_url": "https://discoursethemes.co.uk/t/really-simple-sidebar/29",
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
