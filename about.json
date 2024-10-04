@@ -1,17 +1,11 @@
 {
-  "name": "Really Simple Sidebar",
+  "name": "Bars!",
+  "about_url": "https://meta.discourse.org/t/discourse-bars-a-sidebar-framework/298216",
+  "license_url": "https://github.com/merefield/discourse-tc-bars/blob/main/LICENSE",
+  "version": "0.2",
   "component": true,
-  "license_url": "https://github.com/lcm-dt/discourse-really-simple-sidebar/blob/main/LICENSE",
-  "about_url": "https://discoursethemes.co.uk/t/really-simple-sidebar/29",
-  "authors": null,
-  "theme_version": null,
-  "minimum_discourse_version": null,
-  "maximum_discourse_version": null,
-  "assets": {
-  },
-  "color_schemes": {
-  },
   "modifiers": {
+     "svg_icons": ["angle-up", "angle-down", "angle-left", "angle-right"]
   },
-  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+  "authors": "merefield@gmail.com"
 }
